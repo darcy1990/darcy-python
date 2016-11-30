@@ -1,0 +1,9 @@
+/build/
+/.settings/
+/target
+/.classpath
+/.project
+/.pydevproject
+*.class
+.idea
+*.iml
